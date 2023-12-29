@@ -9,3 +9,5 @@ Team 6000 Robotics Projects:
   https://github.com/FIREBOTICS/practice_work_2023
   https://github.com/FIREBOTICS/2023-Robot
   + Any other code from 2019-2020, 2020-2021, 2021-2022, or 2022-2023 FRC Robotics seasons.
+
+Not all of my old projects are uploaded or made public.
